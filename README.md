@@ -23,6 +23,9 @@
 7. Press `Ctrl`, navigate to `Exit` and press `Enter` to exit the editor
 8. Run the command `reboot`
 
+After these steps, the computer will enter an infinite loop. To exit it, hold down `Ctrl` and `T`.  
+To edit the program, go to step 4 again.
+
 <br><br>
 
 ### License:
