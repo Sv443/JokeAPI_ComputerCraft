@@ -12,8 +12,8 @@
 <br><br>
 
 ## Installation:
-1. Craft a computer and at least one monitor
-2. Place them next to each other
+1. Craft a computer and at least one monitor (though 4 or more are recommended)
+2. Place the monitors next to each other and make sure one of them touches the computer
 3. Run this command in the computer: `pastebin get 6tnmW93j startup`
 4. Run the command `edit startup`
 5. Change the `MONITOR_SIDE` variable at the top to the side where your monitor(s) are connected to the computer
