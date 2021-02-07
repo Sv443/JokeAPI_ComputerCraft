@@ -1,4 +1,4 @@
-<div align=`"center"` style="text-align: center">
+<div align="center" style="text-align: center">
 
 # JokeAPI_ComputerCraft
 ## A ComputerCraft program that displays a joke from [JokeAPI](https://github.com/Sv443/JokeAPI) on an in-game monitor on interval
